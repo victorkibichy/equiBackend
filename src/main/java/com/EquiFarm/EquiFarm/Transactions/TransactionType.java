@@ -1,0 +1,8 @@
+package com.EquiFarm.EquiFarm.Transactions;
+
+public enum TransactionType {
+    FARM_PRODUCT_TRANSACTION,
+    AGRIBUSINESS_PRODUCT_TRANSACTION,
+    EXTENSION_SERVICE_TRANSACTION,
+    LOGISTIC_SERVICE_TRANSACTION
+}
